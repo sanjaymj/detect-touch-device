@@ -1,0 +1,20 @@
+{
+  "name": "detect-touch-device",
+  "version": "1.0.0",
+  "description": "Javascript library to detect touch friendly devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjaymj/detect-touch-device.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjaymj/detect-touch-device/issues"
+  },
+  "homepage": "https://github.com/sanjaymj/detect-touch-device#readme"
+}
