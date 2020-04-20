@@ -13,6 +13,6 @@ console.log(device.isMobile);
 ```
 ### TypeScript
 ```typescript
-import { device } from 'mypluralize';
+import { device } from 'detect-touch-device';
 console.log(device.isMobile)
 ```
