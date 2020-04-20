@@ -1,9 +1,9 @@
 {
   "name": "detect-touch-device",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Javascript library to detect touch friendly devices",
   "main": "dist/index.js",
-  "types" : "dist/index.d.ts",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
