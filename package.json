@@ -1,6 +1,6 @@
 {
   "name": "detect-touch-device",
-  "version": "1.1.2",
+  "version": "1.1.5",
   "description": "Javascript library to detect touch friendly devices",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,7 +12,15 @@
     "type": "git",
     "url": "git+https://github.com/sanjaymj/detect-touch-device.git"
   },
-  "keywords": [],
+  "keywords": [
+    "mobile",
+    "desktop",
+    "angular",
+    "vue",
+    "is",
+    "check",
+    "device"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
