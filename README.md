@@ -8,11 +8,11 @@ npm install detect-touch-device
 ## Usage
 ### Javascript
 ```javascript
-var device = require('detect-touch-device');
-console.log(device.isMobile);
+var isMobile = require('detect-touch-device');
+console.log(isMobile);
 ```
 ### TypeScript
 ```typescript
-import { device } from 'detect-touch-device';
-console.log(device.isMobile)
+import { isMobile } from 'detect-touch-device';
+console.log(isMobile);
 ```
