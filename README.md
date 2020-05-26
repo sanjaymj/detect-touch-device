@@ -6,7 +6,7 @@ Javascript library to detect touch friendly devices. This is a wrapper for the i
 `npm install detect-touch-device`
 
 ## Usage
-### Javascript
+### JavaScript
 ```javascript
 var isMobile = require('detect-touch-device');
 console.log(isMobile);
